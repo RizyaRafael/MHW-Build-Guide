@@ -1,0 +1,476 @@
+[
+    {
+        "UserId": 1,
+        "MonsterId" : 1,
+        "head": {
+            "id": 16,
+            "type": "head",
+            "rank": "low",
+            "rarity": 1,
+            "defense": {
+                "base": 6,
+                "max": 42,
+                "augmented": 72
+            },
+            "resistances": {
+                "fire": 2,
+                "water": 0,
+                "ice": 0,
+                "thunder": 2,
+                "dragon": 2
+            },
+            "attributes": {},
+            "name": "Bone Helm",
+            "slots": [],
+            "skills": [
+                {
+                    "id": 53,
+                    "level": 1,
+                    "modifiers": {
+                        "health": 15
+                    },
+                    "description": "Health +15",
+                    "skill": 17,
+                    "skillName": "Health Boost"
+                }
+            ],
+            "armorSet": {
+                "id": 4,
+                "rank": "low",
+                "name": "Bone",
+                "pieces": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "bonus": null
+            },
+            "assets": {
+                "imageMale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png",
+                "imageFemale": "https://assets.mhw-db.com/armor/9067d30515d01c6739160f65c680f49c12bf0c06.d20ffa258ec987a3638a7f6bb4c63761.png"
+            },
+            "crafting": {
+                "materials": [
+                    {
+                        "quantity": 2,
+                        "item": {
+                            "id": 147,
+                            "rarity": 3,
+                            "carryLimit": 99,
+                            "value": 30,
+                            "name": "Monster Bone S",
+                            "description": "A material found in bonepiles. Indispensable for both hunting and daily life."
+                        }
+                    },
+                    {
+                        "quantity": 2,
+                        "item": {
+                            "id": 138,
+                            "rarity": 4,
+                            "carryLimit": 99,
+                            "value": 400,
+                            "name": "Ancient Bone",
+                            "description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality."
+                        }
+                    }
+                ]
+            }
+        },
+        "chest": {
+            "id": 17,
+            "type": "chest",
+            "rank": "low",
+            "rarity": 1,
+            "defense": {
+                "base": 6,
+                "max": 42,
+                "augmented": 72
+            },
+            "resistances": {
+                "fire": 2,
+                "water": 0,
+                "ice": 0,
+                "thunder": 2,
+                "dragon": 2
+            },
+            "attributes": {},
+            "name": "Bone Mail",
+            "slots": [],
+            "skills": [
+                {
+                    "id": 39,
+                    "level": 1,
+                    "modifiers": {
+                        "attack": 3
+                    },
+                    "description": "Attack +3",
+                    "skill": 15,
+                    "skillName": "Attack Boost"
+                }
+            ],
+            "armorSet": {
+                "id": 4,
+                "rank": "low",
+                "name": "Bone",
+                "pieces": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "bonus": null
+            },
+            "assets": {
+                "imageMale": "https://assets.mhw-db.com/armor/e81c74b3e72db5206268225e2f1a27b4cdee872e.f0ece0c8828b080f47e4324efb429d2d.png",
+                "imageFemale": "https://assets.mhw-db.com/armor/e31b5661aa7c19fabc49d0d1d542adf4ac8ec52d.e76d4b1b825c1f882dea86b0a5e0d3db.png"
+            },
+            "crafting": {
+                "materials": [
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "id": 147,
+                            "rarity": 3,
+                            "carryLimit": 99,
+                            "value": 30,
+                            "name": "Monster Bone S",
+                            "description": "A material found in bonepiles. Indispensable for both hunting and daily life."
+                        }
+                    },
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "id": 138,
+                            "rarity": 4,
+                            "carryLimit": 99,
+                            "value": 400,
+                            "name": "Ancient Bone",
+                            "description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality."
+                        }
+                    }
+                ]
+            }
+        },
+        "legs": {
+            "id": 20,
+            "type": "legs",
+            "rank": "low",
+            "rarity": 1,
+            "defense": {
+                "base": 6,
+                "max": 42,
+                "augmented": 72
+            },
+            "resistances": {
+                "fire": 2,
+                "water": 0,
+                "ice": 0,
+                "thunder": 2,
+                "dragon": 2
+            },
+            "attributes": {},
+            "name": "Bone Greaves",
+            "slots": [],
+            "skills": [
+                {
+                    "id": 291,
+                    "level": 1,
+                    "modifiers": {},
+                    "description": "Increases the chances of a corpse being left behind.",
+                    "skill": 100,
+                    "skillName": "Entomologist"
+                }
+            ],
+            "armorSet": {
+                "id": 4,
+                "rank": "low",
+                "name": "Bone",
+                "pieces": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "bonus": null
+            },
+            "assets": {
+                "imageMale": "https://assets.mhw-db.com/armor/6313ff3401ad840bde1a30f0207f8dfd778597b2.84ae9eadb85dd65663fb6ff366b5662c.png",
+                "imageFemale": "https://assets.mhw-db.com/armor/269a927a5e7002ba223797aa2cc9e55bcf542870.6ed223f6abbe87a03e1e5a80a6f3cb06.png"
+            },
+            "crafting": {
+                "materials": [
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "id": 147,
+                            "rarity": 3,
+                            "carryLimit": 99,
+                            "value": 30,
+                            "name": "Monster Bone S",
+                            "description": "A material found in bonepiles. Indispensable for both hunting and daily life."
+                        }
+                    },
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "id": 138,
+                            "rarity": 4,
+                            "carryLimit": 99,
+                            "value": 400,
+                            "name": "Ancient Bone",
+                            "description": "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality."
+                        }
+                    }
+                ]
+            }
+        },
+        "waist": {
+            "id": 19,
+            "type": "waist",
+            "rank": "low",
+            "rarity": 1,
+            "defense": {
+                "base": 6,
+                "max": 42,
+                "augmented": 72
+            },
+            "resistances": {
+                "fire": 2,
+                "water": 0,
+                "ice": 0,
+                "thunder": 2,
+                "dragon": 2
+            },
+            "attributes": {},
+            "name": "Bone Coil",
+            "slots": [],
+            "skills": [
+                {
+                    "id": 186,
+                    "level": 1,
+                    "modifiers": {},
+                    "description": "Extends melody effect duration and increases health recovery.",
+                    "skill": 58,
+                    "skillName": "Horn Maestro"
+                }
+            ],
+            "armorSet": {
+                "id": 4,
+                "rank": "low",
+                "name": "Bone",
+                "pieces": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "bonus": null
+            },
+            "assets": {
+                "imageMale": "https://assets.mhw-db.com/armor/d4e873233876dd1077e96cc72ae9c81826e20ac1.1901bdb90ea781eccee3ce1aed7ef399.png",
+                "imageFemale": "https://assets.mhw-db.com/armor/5cc2482ed0572eb623d446f58a07793e978d02f4.aa2ddeaea861b701f9c72b0163665c87.png"
+            },
+            "crafting": {
+                "materials": [
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "id": 147,
+                            "rarity": 3,
+                            "carryLimit": 99,
+                            "value": 30,
+                            "name": "Monster Bone S",
+                            "description": "A material found in bonepiles. Indispensable for both hunting and daily life."
+                        }
+                    },
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "id": 195,
+                            "rarity": 4,
+                            "carryLimit": 99,
+                            "value": 180,
+                            "name": "Kestodon Shell",
+                            "description": "Kestodon material. Obtained by carving. Sturdy, used to craft gear."
+                        }
+                    }
+                ]
+            }
+        },
+        "gloves": {
+            "id": 18,
+            "type": "gloves",
+            "rank": "low",
+            "rarity": 1,
+            "defense": {
+                "base": 6,
+                "max": 42,
+                "augmented": 72
+            },
+            "resistances": {
+                "fire": 2,
+                "water": 0,
+                "ice": 0,
+                "thunder": 2,
+                "dragon": 2
+            },
+            "attributes": {},
+            "name": "Bone Vambraces",
+            "slots": [],
+            "skills": [
+                {
+                    "id": 153,
+                    "level": 1,
+                    "modifiers": {},
+                    "description": "Stun power +20%",
+                    "skill": 47,
+                    "skillName": "Slugger"
+                }
+            ],
+            "armorSet": {
+                "id": 4,
+                "rank": "low",
+                "name": "Bone",
+                "pieces": [
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "bonus": null
+            },
+            "assets": {
+                "imageMale": "https://assets.mhw-db.com/armor/c4da9f5bd9f34275a7a958ec8673ebfdbd4061ef.6d2a622bd7c2b737a1b035ad26a88a6b.png",
+                "imageFemale": "https://assets.mhw-db.com/armor/9c9a693ad1ec2f25d9bae7f949b9a266e2a200ee.574f37cc18870563011ec47ab0bc813e.png"
+            },
+            "crafting": {
+                "materials": [
+                    {
+                        "quantity": 3,
+                        "item": {
+                            "id": 147,
+                            "rarity": 3,
+                            "carryLimit": 99,
+                            "value": 30,
+                            "name": "Monster Bone S",
+                            "description": "A material found in bonepiles. Indispensable for both hunting and daily life."
+                        }
+                    },
+                    {
+                        "quantity": 2,
+                        "item": {
+                            "id": 195,
+                            "rarity": 4,
+                            "carryLimit": 99,
+                            "value": 180,
+                            "name": "Kestodon Shell",
+                            "description": "Kestodon material. Obtained by carving. Sturdy, used to craft gear."
+                        }
+                    }
+                ]
+            }
+        },
+        "weapon": {
+            "id": 1,
+            "type": "great-sword",
+            "rarity": 1,
+            "attack": {
+                "display": 384,
+                "raw": 80
+            },
+            "elderseal": null,
+            "attributes": {},
+            "damageType": "sever",
+            "name": "Buster Sword 1",
+            "durability": [
+                {
+                    "red": 100,
+                    "orange": 50,
+                    "yellow": 50,
+                    "green": 0,
+                    "blue": 0,
+                    "white": 0,
+                    "purple": 0
+                },
+                {
+                    "red": 100,
+                    "orange": 50,
+                    "yellow": 60,
+                    "green": 0,
+                    "blue": 0,
+                    "white": 0,
+                    "purple": 0
+                },
+                {
+                    "red": 100,
+                    "orange": 50,
+                    "yellow": 70,
+                    "green": 0,
+                    "blue": 0,
+                    "white": 0,
+                    "purple": 0
+                },
+                {
+                    "red": 100,
+                    "orange": 50,
+                    "yellow": 80,
+                    "green": 0,
+                    "blue": 0,
+                    "white": 0,
+                    "purple": 0
+                },
+                {
+                    "red": 100,
+                    "orange": 50,
+                    "yellow": 80,
+                    "green": 10,
+                    "blue": 0,
+                    "white": 0,
+                    "purple": 0
+                },
+                {
+                    "red": 100,
+                    "orange": 50,
+                    "yellow": 80,
+                    "green": 20,
+                    "blue": 0,
+                    "white": 0,
+                    "purple": 0
+                }
+            ],
+            "slots": [],
+            "elements": [],
+            "crafting": {
+                "craftable": true,
+                "previous": null,
+                "branches": [
+                    2
+                ],
+                "craftingMaterials": [
+                    {
+                        "quantity": 1,
+                        "item": {
+                            "id": 116,
+                            "rarity": 4,
+                            "carryLimit": 99,
+                            "value": 60,
+                            "name": "Iron Ore",
+                            "description": "Ore that can be smelted into metal and used for many different purposes."
+                        }
+                    }
+                ],
+                "upgradeMaterials": []
+            },
+            "assets": {
+                "icon": "https://assets.mhw-db.com/weapons/great-sword/icons/83b9e1fa727ca6ba922b53a42626a167.26ad6221e21811da5278502fabfc138b33d622bc.png",
+                "image": "https://assets.mhw-db.com/weapons/great-sword/83f7ab6e7e5669ec416d772049b8b054e2624c2e.c7bad811e203c9bb55626e414659a4f7.png"
+            }
+        }
+    }
+]

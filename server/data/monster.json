@@ -1,0 +1,212 @@
+[
+    {
+      "name": "Great Jagras",
+      "monsterId": 17,
+      "imageUrl": "https://i.pinimg.com/originals/72/51/b6/7251b65f3934e3cae0348eadc302fb65.png"
+    },
+    {
+      "name": "Kulu-Ya-Ku",
+      "monsterId": 18,
+      "imageUrl": "https://i.pinimg.com/originals/6b/17/8e/6b178ed93f7e2131b756374ebac7f7d3.png"
+    },
+    {
+      "name": "Pukei-Pukei",
+      "monsterId": 19,
+      "imageUrl": "https://i.pinimg.com/originals/a6/7c/54/a67c54b65cdea214c66ea8d36a22c9ae.png"
+    },
+    {
+      "name": "Barroth",
+      "monsterId": 20,
+      "imageUrl": "https://i.pinimg.com/originals/0f/06/1b/0f061be042e4e148feb5f330d752e701.png"
+    },
+    {
+      "name": "Jyuratodus",
+      "monsterId": 21,
+      "imageUrl": "https://i.pinimg.com/originals/bd/81/55/bd815528c2697ecaf81066d4bc00493b.png"
+    },
+    {
+      "name": "Tobi-Kadachi",
+      "monsterId": 22,
+      "imageUrl": "https://i.pinimg.com/originals/de/87/aa/de87aa0c93027e65fec599d2e74668c3.png"
+    },
+    {
+      "name": "Anjanath",
+      "monsterId": 23,
+      "imageUrl": "https://i.pinimg.com/originals/77/34/96/773496d073e1991381c88eadad2366a3.png"
+    },
+    {
+      "name": "Azure Rathalos",
+      "monsterId": 24,
+      "imageUrl": ""
+    },
+    {
+      "name": "Bazelgeuse",
+      "monsterId": 25,
+      "imageUrl": "https://i.pinimg.com/originals/8e/45/bb/8e45bb0955a94c44c58c5a6766cf5128.png"
+    },
+    {
+      "name": "Behemoth",
+      "monsterId": 26,
+      "imageUrl": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-behemoth_icon.png"
+    },
+    {
+      "name": "Deviljho",
+      "monsterId": 27,
+      "imageUrl": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-deviljho_icon.png"
+    },
+    {
+      "name": "Diablos",
+      "monsterId": 28,
+      "imageUrl": "https://i.pinimg.com/originals/3d/f7/f9/3df7f9d65722458ecfb6c9f6be3f5d55.png"
+    },
+    {
+      "name": "Black Diablos",
+      "monsterId": 29,
+      "imageUrl": "https://i.pinimg.com/originals/ee/b2/fe/eeb2fe5be4b573519fcb841b312f0650.png"
+    },
+    {
+      "name": "Dodogama",
+      "monsterId": 30,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/3/3e/MHW-Dodogama_Icon.png/revision/latest?cb=20210724005026"
+    },
+    {
+      "name": "Great Girros",
+      "monsterId": 31,
+      "imageUrl": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-great_girros_icon2.png"
+    },
+    {
+      "name": "Kirin",
+      "monsterId": 32,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/8/81/MHW-Kirin_Icon.png/revision/latest?cb=20210724000855"
+    },
+    {
+      "name": "Kulve Taroth",
+      "monsterId": 33,
+      "imageUrl": "https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em117_ID.png"
+    },
+    {
+      "name": "Kushala Daora",
+      "monsterId": 34,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/e/e2/MHW-Kushala_Daora_Icon.png/revision/latest/scale-to-width-down/250?cb=20210724000948"
+    },
+    {
+      "name": "Lavasioth",
+      "monsterId": 35,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmCXU3t-4RIGPhIqKqOIrra_fN-DEqLN7xFzmshaDKVzayO8wM6wj9pZFVA&s"
+    },
+    {
+      "name": "Legiana",
+      "monsterId": 36,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/1/13/MHW-Legiana_Icon.png/revision/latest?cb=20210724010027"
+    },
+    {
+      "name": "Lunastra",
+      "monsterId": 37,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/e/e1/MHW-Lunastra_Icon.png/revision/latest?cb=20210724001103"
+    },
+    {
+      "name": "Nergigante",
+      "monsterId": 38,
+      "imageUrl": "https://i.pinimg.com/originals/79/f4/83/79f48325277781d9dfc6008ecc9bee26.png"
+    },
+    {
+      "name": "Odogaron",
+      "monsterId": 39,
+      "imageUrl": "https://i.pinimg.com/originals/b0/0e/30/b00e3090e22619d0f30a0a5893da92b7.png"
+    },
+    {
+      "name": "Paolumu",
+      "monsterId": 40,
+      "imageUrl": "https://i.pinimg.com/originals/82/b6/00/82b600ce1f899385e1a8097227dbae88.png"
+    },
+    {
+      "name": "Radobaan",
+      "monsterId": 41,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/2/23/MHW-Radobaan_Icon.png/revision/latest?cb=20210724010413"
+    },
+    {
+      "name": "Rathalos",
+      "monsterId": 42,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunterworld_gamepedia_en/images/4/41/MHW_Rathalos_Icon.png/revision/latest/scale-to-width-down/250?cb=20190826171425"
+    },
+    {
+      "name": "Rathian",
+      "monsterId": 43,
+      "imageUrl": "https://i.pinimg.com/originals/0b/18/50/0b1850785ee03af0895dfc647e24e848.png"
+    },
+    {
+      "name": "Pink Rathian",
+      "monsterId": 44,
+      "imageUrl": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-pink_rathian_icon2.png"
+    },
+    {
+      "name": "Teostra",
+      "monsterId": 45,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/d/d7/MHW-Teostra_Icon.png/revision/latest?cb=20210724010546"
+    },
+    {
+      "name": "Tzitzi-Ya-Ku",
+      "monsterId": 48,
+      "imageUrl": "https://i.pinimg.com/originals/84/7e/e0/847ee0b185f9cf4dc937b15c62030ef3.png"
+    },
+    {
+      "name": "Uragaan",
+      "monsterId": 49,
+      "imageUrl": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-uragaan_icon.png"
+    },
+    {
+      "name": "Vaal Hazak",
+      "monsterId": 50,
+      "imageUrl": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-vaal_hazak_icon.png"
+    },
+    {
+      "name": "Xeno'jiiva",
+      "monsterId": 51,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/e/e3/MHW-Xeno%27jiiva_Icon.png/revision/latest?cb=20210724010915"        
+    },
+    {
+      "name": "Zorah Magdaros",
+      "monsterId": 52,
+      "imageUrl": "https://static.wikia.nocookie.net/fanonmonsterhunter/images/1/1c/Hell-Gate_Zorah_Magdaros_Icon_by_Aucoustism.png/revision/latest?cb=20201229011140"
+    },
+    {
+      "name": "Leshen",
+      "monsterId": 53,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/6/6d/MHW-Leshen_Icon.png/revision/latest?cb=20210724010044"
+    },
+    {
+      "name": "Ancient Leshen",
+      "monsterId": 54,
+      "imageUrl": "https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em127_01_ID.png"
+    },
+    {
+      "name": "Safi'jiiva",
+      "monsterId": 55,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/f/fa/MHWI-Safi%27jiiva_Icon.png/revision/latest?cb=20210724012238"       
+    },
+    {
+      "name": "Stygian Zinogre",
+      "monsterId": 56,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/f/f3/MHWI-Stygian_Zinogre_Icon.png/revision/latest?cb=20210724012446"    
+    },
+    {
+      "name": "Rajang",
+      "monsterId": 57,
+      "imageUrl": "https://cdn.kiranico.net/file/kiranico/mhworld-web/mhw/icon/em023_ID.png"
+    },
+    {
+      "name": "Viper Tobi-Kadachi",
+      "monsterId": 58,
+      "imageUrl": "https://static.wikia.nocookie.net/monsterhunter/images/0/09/MHWI-Viper_Tobi-Kadachi_Icon.png/revision/latest?cb=20210724012553" 
+    },
+    {
+      "name": "Namielle",
+      "monsterId": 59,
+      "imageUrl": "https://i.pinimg.com/originals/7c/8b/0f/7c8b0f66533c31f0e19c0c406980e5cc.png"
+    },
+    {
+      "name": "Zinogre",
+      "monsterId": 60,
+      "imageUrl": "https://i.pinimg.com/originals/d0/f0/55/d0f05500f8ffe264e5d1a8beb9e70c8a.png"
+    }
+  ]
